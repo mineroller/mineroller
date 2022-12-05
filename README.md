@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mineroller
-- 👀 I’m a systems architecture specialist in large-scale CCTV system around the world - in particular, Casino surveillance and national infrastructure.
+- 👋 Hi, I’m Jonathan / @mineroller
+- 👀 I’m a systems architecture specialist for large-scale CCTV systems, with experiences in design/deploy/commission all around Asia-Pacific. My specialty are Casino Surveillance and transportation segments.
 - 🌱 I’m currently learning C# to create useful tools for my customers.
 
 
